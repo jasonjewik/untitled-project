@@ -1,5 +1,11 @@
-﻿  Creating makefile for hot reloading MyProjectEditor (no existing makefile)
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading MyProjectEditor (modules to compile have changed)
   Compiling game modules for hot reload
-  Target is up to date
+  Performing 3 actions (4 in parallel)
+  EnemyAI.cpp
+  [2/3] Link UE4Editor-MyProject-9883.dll
+  [3/3] Link UE4Editor-MyProject-9883.lib
+     Creating library D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-9883.lib and object D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-9883.exp
+     Creating library D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-9883.suppressed.lib and object D:\Unreal Projects\untitled-project\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject-9883.suppressed.exp
   Deploying MyProjectEditor Win64 Development...
-  Total build time: 5.06 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Total build time: 9.14 seconds (Local executor: 3.03 seconds)
